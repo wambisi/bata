@@ -1,0 +1,21 @@
+{
+  "name": "bower.json",
+  "authors": [
+    "HawiCaesar <brian.odhiambo932@gmail.com>"
+  ],
+  "description": "bata landing page",
+  "main": "bower.json",
+  "moduleType": [],
+  "keywords": [
+    "bata"
+  ],
+  "license": "n",
+  "homepage": "www.hawisfruitio.allyou.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
